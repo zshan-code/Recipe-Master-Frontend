@@ -2,10 +2,11 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-
-![Screenshot](/mobile/assets/images/1.jpeg)
-![Screenshot](/mobile/assets/images/2.jpeg)
-![Screenshot](/mobile/assets/images/3.jpeg)
+```markdown
+![Screenshot](assets/images/1.jpeg)
+![Screenshot](assets/images/2.jpeg)
+![Screenshot](assets/images/3.jpeg)
+```
 
 ## Get started
 
