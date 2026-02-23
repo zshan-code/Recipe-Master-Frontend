@@ -3,9 +3,11 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ```markdown
-![Screenshot](assets/images/1.jpeg)
-![Screenshot](assets/images/2.jpeg)
-![Screenshot](assets/images/3.jpeg)
+<div align="center">
+  <img src="assets/images/1.jpeg" width="250" />
+  <img src="assets/images/2.jpeg" width="250" />
+  <img src="assets/images/3.jpeg" width="250" />
+</div>
 ```
 
 ## Get started
